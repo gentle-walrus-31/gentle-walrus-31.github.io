@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.use_as_origin"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gentlewalrus31.auroraharvest",
+      "sha256_cert_fingerprints": ["6D:0F:B7:E5:8A:E5:A4:DE:44:82:F4:E3:3F:FD:C4:44:C6:8D:8E:F2:E7:FD:96:D5:43:4B:14:CB:76:66:1B:E9"]
+    }
+  }
+]
